@@ -1,8 +1,8 @@
 {
-  "name": "rocknroll",
+  "name": "rarwe",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for rocknroll goes here",
+  "description": "Small description for rarwe goes here",
   "repository": "",
   "license": "MIT",
   "author": "",
@@ -25,6 +25,9 @@
   "devDependencies": {
     "@ember/optional-features": "^2.0.0",
     "@ember/test-helpers": "^2.8.1",
+    "@embroider/compat": "^1.8.3",
+    "@embroider/core": "^1.8.3",
+    "@embroider/webpack": "^1.8.3",
     "@glimmer/component": "^1.1.2",
     "@glimmer/tracking": "^1.1.2",
     "babel-eslint": "^10.1.0",
@@ -46,7 +49,6 @@
     "ember-resolver": "^8.0.3",
     "ember-source": "~4.7.0",
     "ember-template-lint": "^4.14.0",
-    "ember-welcome-page": "^6.2.0",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-ember": "^11.0.6",

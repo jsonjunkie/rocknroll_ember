@@ -2,7 +2,7 @@
 
 module.exports = function (environment) {
   let ENV = {
-    modulePrefix: 'rocknroll',
+    modulePrefix: 'rarwe',
     environment,
     rootURL: '/',
     locationType: 'history',
